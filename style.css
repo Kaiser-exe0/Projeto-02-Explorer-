@@ -84,10 +84,9 @@ button{
     background: #69b99d;
 
     cursor: pointer;
-
 }
 
-button :hover{
+button:hover {
     background: #4ea788;
 }
 
